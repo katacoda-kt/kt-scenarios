@@ -1,2 +1,2 @@
 # kt-scenarios
-Collection of various katacoda scenario's
+Collection of various katacoda scenario's 
