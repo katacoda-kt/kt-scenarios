@@ -1,0 +1,11 @@
+{
+  "title": "Test course",
+  "description": "PoC to check if it works",
+  "courses": [
+    {
+      "course_id": "hello-world",
+      "title": "Hello World Scenario",
+      "description": "Your First Scenario"
+    }
+  ]
+}
